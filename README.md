@@ -3,6 +3,6 @@
 O objetivo desse desafio foi aplicar o que foi aprendido nas aulas, desenvolvendo um pequeno sistema bancário.
 
 ### O que foi feito:
-- Importar e intanciar a classe Scanner.
+- Importar e instanciar a classe Scanner.
 - Permitir a entrada dos dados: nome, agência, numero da conta e saldo.
 - Informar os dados de entrada formatados em um texto.
